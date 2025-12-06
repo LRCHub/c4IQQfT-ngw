@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "全力少年",
+  "base_artist": "SUKIMASWITCH",
+  "createdAt": "2025-12-06T15:00:03.126839Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "全力少年",
+      "artist": "Sukimaswitch",
+      "has_synced": true,
+      "path": "select/01_全力少年_Sukimaswitch.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "全力少年",
+      "artist": "スキマスイッチ",
+      "has_synced": true,
+      "path": "select/02_全力少年_スキマスイッチ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "全力少年",
+      "artist": "スキマスイッチ",
+      "has_synced": true,
+      "path": "select/03_全力少年_スキマスイッチ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "全力少年",
+      "artist": "Unchain",
+      "has_synced": true,
+      "path": "select/04_全力少年_Unchain.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "全力少年 - Zenryoku Syounen",
+      "artist": "SUKIMASWITCH",
+      "has_synced": true,
+      "path": "select/05_全力少年_-_Zenryoku_Syounen_SUKIMASWITCH.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "全力少年",
+      "artist": "UNCHAIN",
+      "has_synced": true,
+      "path": "select/06_全力少年_UNCHAIN.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "全力少年",
+      "artist": "Sukima Switch",
+      "has_synced": true,
+      "path": "select/07_全力少年_Sukima_Switch.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "全力少年",
+      "artist": "ハロー、ハッピーワールド！",
+      "has_synced": false,
+      "path": "select/08_全力少年_ハロー、ハッピーワールド!.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "全力少年",
+      "artist": "BENI",
+      "has_synced": false,
+      "path": "select/09_全力少年_BENI.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "全力少年 Remastered",
+      "artist": "スキマスイッチ",
+      "has_synced": true,
+      "path": "select/10_全力少年_Remastered_スキマスイッチ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "全力少年 - Remastered",
+      "artist": "Sukima Switch",
+      "has_synced": true,
+      "path": "select/11_全力少年_-_Remastered_Sukima_Switch.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "全力少年",
+      "artist": "スキマスイッチ",
+      "has_synced": true,
+      "path": "select/12_全力少年_スキマスイッチ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "全力少年",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_01_全力少年_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "全力少年",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_02_全力少年_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "全力少年",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_03_全力少年_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "全力少年",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_04_全力少年_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "全力少年",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_05_全力少年_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "全力少年",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_06_全力少年_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "全力少年",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_07_全力少年_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "全力少年",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_08_全力少年_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "全力少年",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_09_全力少年_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "全力少年",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_10_全力少年_スキマスイッチ.txt"
+    }
+  ]
+}
